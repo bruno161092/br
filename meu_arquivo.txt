@@ -1,1 +1,2 @@
-"Meu texto da atividade" 
+"Este é um arquivo de texto criado para a atividade prática de Git e GitHub.
+O objetivo deste documento é testar operações básicas como criação, commit e envio (push) para um repositório remoto.Meu texto da atividade" 
